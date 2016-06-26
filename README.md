@@ -1,1 +1,1 @@
-# ����˶�JavaScriptС��Ŀ
+﻿# 随机运动JavaScript小项目
